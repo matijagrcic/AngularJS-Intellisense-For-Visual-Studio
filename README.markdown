@@ -2,7 +2,7 @@
 
 ## Why should you care?
 Get intellisense support for [AngularJS](https://github.com/angular/angular.js) in Visual Studio
-![Intellisense](https://github.com/matijagrcic/AngularJS-Intellisense-For-Visual-Studio/blob/master/Content/vs-intellisense.png)
+![Intellisense](https://raw.github.com/matijagrcic/AngularJS-Intellisense-For-Visual-Studio/blob/master/Content/vs-intellisense.png)
 
 ## Quick start
 # Visual Studio 2012
@@ -22,14 +22,14 @@ Get intellisense support for [AngularJS](https://github.com/angular/angular.js) 
 * Double click on "Schema AngularJS.reg" in VS 2010 directory
 * Open Visual Studio
 * Go to Tools > Options > Text Editor > HTML > Validation
-![Tools options](https://github.com/matijagrcic/AngularJS-Intellisense-For-Visual-Studio/blob/master/Content/vs-tools-options.png)
+![Tools options](https://raw.github.com/matijagrcic/AngularJS-Intellisense-For-Visual-Studio/blob/master/Content/vs-tools-options.png)
 * From the Target dropdown choose AngularJS 
-![HTML validation](https://github.com/matijagrcic/AngularJS-Intellisense-For-Visual-Studio/blob/master/Content/vs-html-validation.png)
+![HTML validation](https://raw.github.com/matijagrcic/AngularJS-Intellisense-For-Visual-Studio/blob/master/Content/vs-html-validation.png)
 * Click OK
 
 ## What does *.reg do?
 It adds a new Key in the Schema
-![Registry editor](https://github.com/matijagrcic/AngularJS-Intellisense-For-Visual-Studio/blob/master/Content/registry-editor.png)
+![Registry editor](https://raw.github.com/matijagrcic/AngularJS-Intellisense-For-Visual-Studio/blob/master/Content/registry-editor.png)
 
 ## Contributing
 Feel free to send a pull request so that the schema is up to date
