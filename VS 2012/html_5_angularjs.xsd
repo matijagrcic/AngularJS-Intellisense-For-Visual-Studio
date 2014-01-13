@@ -165,6 +165,7 @@
 		<xsd:attribute name="tabIndex" />
 		<xsd:attribute name="title" />
     <xsd:attribute name="ng-app" vs:category="Angular" />
+    <xsd:attribute name="ng-bind" vs:category="Angular" />
     <xsd:attribute name="ng-bind-html-unsafe" vs:category="Angular" />
     <xsd:attribute name="ng-bind-template" vs:category="Angular" />
     <xsd:attribute name="ng-checked" vs:category="Angular" />
